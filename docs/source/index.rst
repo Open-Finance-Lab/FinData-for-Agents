@@ -21,6 +21,12 @@ FinData for Agents Documentation
 
    intro/overview
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Data
+
+   data/source
+
 
 
 
